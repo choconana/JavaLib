@@ -635,7 +635,7 @@ public T get() {
 * ThreadLocalMap的每个Entry都是一个**对key的弱引用**，同时，每个Entry都包含了一个**对value的强引用**；
 
 * 正常情况下，当线程终止，保存在ThreadLocal里的value会被垃圾回收，因为没有任何强引用了；
-* 但是，如果线程不终止（比如线程需要保持很久），那么key对应的value就不能被回收，因为有这个调用链：`Thread -> ThreadLocalMap -> Entry(key为null) -> value`；
+* 但是，如果线程不终止（比如线程需要保持很久），那么**ThreadLocal外部强引用被置为null**，key会被gc的时候回收掉时，此时无法通过为null的key去访问对应的value，value就不能被回收，但此时还存在这个调用链：`Thread -> ThreadLocalMap -> Entry(key为null) -> value`；
 * 因为value和Thread之间还存在这个强引用链路，所以**导致value无法回收**，就可能会出现OOM；
 * JDK已经考虑到了这个问题，所以在set、remove、rehash方法中会**扫描key为null的Entry，并把对应的value设置为nul**l，这样value对象就可以被回收；
 * 但是如果一个ThreadLocal不被使用，那么实际上set、remove、rehash方法也不会被调用，如果同时线程又不停止，那么调用链就一直存在，就会导致了value的内存泄露；
