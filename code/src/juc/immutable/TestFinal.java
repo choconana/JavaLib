@@ -9,7 +9,7 @@ package juc.immutable;
 public class TestFinal {
     public static void main(String[] args) {
         final Person person = new Person();
-//        person = new Person();
+//        Person = new Person();
         int age = person.age;
         person.nickname = "baby";
     }
