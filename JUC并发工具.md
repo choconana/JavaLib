@@ -182,7 +182,7 @@
   ![1587130563676](课件\JUC资料\图片\newCachedThreadPool模型.png)
 
 * **newScheduledThreadPool**
-  
+
   * 支持定时以及周期性任务执行
 
 ##### 正确创建线程池的方法
@@ -226,7 +226,7 @@
 
 ### ② CachedThreadPool
 
-![1587131922000](D:\java学习\并发和多线程\课件\JUC资料\图片\CachedThreadPool模型.png)
+![1587131922000](课件\JUC资料\图片\CachedThreadPool模型.png)
 
 ### ③ ScheduledThreadPool
 
@@ -239,7 +239,7 @@
 
 ### 4种线程池的构造函数的参数
 
-![1587132599004](D:\java学习\并发和多线程\课件\JUC资料\图片\常用线程池的构造函数参数.png)
+![1587132599004](课件\JUC资料\图片\常用线程池的构造函数参数.png)
 
 ### 阻塞队列分析
 
@@ -266,7 +266,6 @@ ScheduledThreadPool需要对任务执行时间自定义
   * 为了提高执行效率，任务最好不加锁；
   * 不保证执行顺序
 
-  
 
 
 
@@ -519,7 +518,7 @@ final void runWorker(Worker w) {
 >         /** 1. */
 >         return setInitialValue();
 >     }
-> 
+>
 >     private T setInitialValue() {
 >         /** 2. */
 >         T value = initialValue();
@@ -532,7 +531,7 @@ final void runWorker(Worker w) {
 >             createMap(t, value);
 >         return value;
 >     }
-> 
+>
 > 	/** 3. */
 >     protected T initialValue() {
 >         return null;
@@ -604,7 +603,7 @@ public T get() {
 
 * HashMap：**拉链法**和**红黑树**
 
-![Java8 HashMap结构](D:\java学习\并发和多线程\课件\JUC资料\图片\Java8 HashMap结构.png)
+![Java8 HashMap结构](.\课件\JUC资料\图片\Java8 HashMap结构.png)
 
 * ThreadLocalMap采用的是**线性探测法**，也就是如果发生冲突，就继续找下一个空位置
 
@@ -760,7 +759,7 @@ public T get() {
 
 ![1589377285928](课件\JUC资料\图片\悲观锁流程1.png)
 
-![1589377329511](D:\java学习\并发和多线程\课件\JUC资料\图片\悲观锁流程2.png)
+![1589377329511](.\课件\JUC资料\图片\悲观锁流程2.png)
 
 #### ③乐观锁
 
@@ -770,7 +769,7 @@ public T get() {
 * 乐观锁的实现一般都是利用**CAS算法**来实现的；
   * CAS核心思想：在数据的一个原子操作内，把数据对比并且交换；
 
-![1589381125784](D:\java学习\并发和多线程\课件\JUC资料\图片\乐观锁流程1.png)
+![1589381125784](.\课件\JUC资料\图片\乐观锁流程1.png)
 
 ![1589381165726](课件\JUC资料\图片\乐观锁流程2.png)
 
@@ -1004,7 +1003,7 @@ public T get() {
 ##### 代码演示
 
 * 支持锁的降级，不支持升级：`juc.lock.readwrite.Upgrading`;
-* 实际锁降级的例子：在锁降级成功后，也就是持有写锁的时候同时申请并获得了读锁后，此时直接释放写锁，但是不释放读锁，这样就可以提高锁的利用效率，下面这段代码演示了在更新缓存的时候，如何利用锁的降级功能。
+* 实际锁降级的例子：在锁降级成功后，也就是**持有写锁的时候同时申请并获得了读锁**后，此时直接释放写锁，但是不释放读锁，这样就可以提高锁的利用效率，下面这段代码演示了在更新缓存的时候，如何利用锁的降级功能。
 
 ~~~java
 public class CacheData {
@@ -1103,7 +1102,7 @@ public class CacheData {
 2. 尽量不要锁住方法，因为方法可能会被扩展；
 3. 减少请求锁的次数；
 4. 避免人为制造大量使用锁的场景；
-5. 所终尽量不要在包含锁，否则容易产生死锁；
+5. 锁中尽量不要在包含锁，否则容易产生死锁；
 6. 选择合适的锁类型或合适的工具类；
 
 
@@ -1567,7 +1566,7 @@ false
   public V put(K key, V value) {
       return putVal(key, value, false);
   }
-  
+
   /** Implementation for put and putIfAbsent */
   final V putVal(K key, V value, boolean onlyIfAbsent) {
       if (key == null || value == null) throw new NullPointerException();
@@ -1922,9 +1921,9 @@ public void put(E e) throws InterruptedException {
 * 容量为0
 * 需要注意的是， `SynchronousQueue`的容量不是1而是0，因为 `SynchronousQueue`不需要去持有元素，它所做的就是直接传递；
 * 效率很高
-*  `SynchronousQueue`没有peek等函数，因为peek的含义是取出头结点，但是 `SynchronousQueue`的容量为0，所以连头结点都没有，也就没有peek方法。同理，没有iterate相关方法；
+* `SynchronousQueue`没有peek等函数，因为peek的含义是取出头结点，但是 `SynchronousQueue`的容量为0，所以连头结点都没有，也就没有peek方法。同理，没有iterate相关方法；
 * 是一个极好的用来直接传递的并发数据结构；
-*  `SynchronousQueue`是线程池`Executors.newCachedThreadPool()`使用的阻塞队列；
+* `SynchronousQueue`是线程池`Executors.newCachedThreadPool()`使用的阻塞队列；
 
 #### g. `DelayQueue`
 
@@ -2434,7 +2433,6 @@ public void put(E e) throws InterruptedException {
   }
   ~~~
 
-  
 
 ## 3. Future类
 
@@ -2563,9 +2561,9 @@ get方法的行为取决于`Callable`任务的状态，只有以下这5中情况
    * 缺点：性能差，多线程同时计算时，需要等待一个线程计算完毕，严重时，性能甚至比不用缓存更差；
 
 4. 性能优化——缩小锁的粒度：
-   
+
 * 虽然把存入缓存的语句加上`synchronized`关键字，但并不意味着就是线程安全的，还需要考虑到**同时读写**等情况；
-  
+
 5. 用并发集合做缓存——`ConcurrentHashMap`：
 
    * 代码：`cache.ConcurrentCache`；
@@ -2582,7 +2580,7 @@ get方法的行为取决于`Callable`任务的状态，只有以下这5中情况
    ![1598846121551](课件\JUC资料\图片\Future重复计算的原因.png)
 
 7. 完全避免重复计算——加上原子操作**`putIfAbsent`**：
-   
+
    * 代码：`cache.AtomicFutureCache`；
 
 ### 扩展

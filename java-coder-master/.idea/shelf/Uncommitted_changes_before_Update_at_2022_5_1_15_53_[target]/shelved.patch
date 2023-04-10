@@ -1,0 +1,325 @@
+Index: .idea/compiler.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/compiler.xml b/.idea/compiler.xml
+new file mode 100644
+--- /dev/null	(date 1651391580938)
++++ b/.idea/compiler.xml	(date 1651391580938)
+@@ -0,0 +1,23 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="CompilerConfiguration">
++    <annotationProcessing>
++      <profile default="true" name="Default" enabled="true" />
++      <profile name="Maven default annotation processors profile" enabled="true">
++        <sourceOutputDir name="target/generated-sources/annotations" />
++        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
++        <outputRelativeToContentRoot value="true" />
++        <module name="springboot-interceptor" />
++        <module name="springboot-minio" />
++        <module name="wx-pay-demo" />
++        <module name="java-util" />
++      </profile>
++    </annotationProcessing>
++  </component>
++  <component name="JavacSettings">
++    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
++      <module name="java-util" options="-parameters" />
++      <module name="springboot-interceptor" options="-parameters" />
++    </option>
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+new file mode 100644
+--- /dev/null	(date 1650447024857)
++++ b/.idea/misc.xml	(date 1650447024857)
+@@ -0,0 +1,18 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ExternalStorageConfigurationManager" enabled="true" />
++  <component name="MavenProjectsManager">
++    <option name="originalFiles">
++      <list>
++        <option value="$PROJECT_DIR$/pom.xml" />
++        <option value="$PROJECT_DIR$/springboot-minio/pom.xml" />
++        <option value="$PROJECT_DIR$/wx-pay-demo/pom.xml" />
++        <option value="$PROJECT_DIR$/java-util/pom.xml" />
++        <option value="$PROJECT_DIR$/springboot-interceptor/pom.xml" />
++      </list>
++    </option>
++  </component>
++  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
++    <output url="file://$PROJECT_DIR$/out" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/encodings.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/encodings.xml b/.idea/encodings.xml
+new file mode 100644
+--- /dev/null	(date 1650448368821)
++++ b/.idea/encodings.xml	(date 1650448368821)
+@@ -0,0 +1,11 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="Encoding">
++    <file url="file://$PROJECT_DIR$/java-util/src/main/java" charset="UTF-8" />
++    <file url="file://$PROJECT_DIR$/springboot-interceptor/src/main/java" charset="UTF-8" />
++    <file url="file://$PROJECT_DIR$/springboot-minio/src/main/java" charset="UTF-8" />
++    <file url="file://$PROJECT_DIR$/springboot-minio/src/main/resources" charset="UTF-8" />
++    <file url="file://$PROJECT_DIR$/wx-pay-demo/src/main/java" charset="UTF-8" />
++    <file url="file://$PROJECT_DIR$/wx-pay-demo/src/main/resources" charset="UTF-8" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/jarRepositories.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/jarRepositories.xml b/.idea/jarRepositories.xml
+new file mode 100644
+--- /dev/null	(date 1650446959375)
++++ b/.idea/jarRepositories.xml	(date 1650446959375)
+@@ -0,0 +1,20 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="RemoteRepositoriesConfiguration">
++    <remote-repository>
++      <option name="id" value="central" />
++      <option name="name" value="Central Repository" />
++      <option name="url" value="https://repo.maven.apache.org/maven2" />
++    </remote-repository>
++    <remote-repository>
++      <option name="id" value="central" />
++      <option name="name" value="Maven Central repository" />
++      <option name="url" value="https://repo1.maven.org/maven2" />
++    </remote-repository>
++    <remote-repository>
++      <option name="id" value="jboss.community" />
++      <option name="name" value="JBoss Community repository" />
++      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
++    </remote-repository>
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+new file mode 100644
+--- /dev/null	(date 1651391580932)
++++ b/.idea/workspace.xml	(date 1651391580932)
+@@ -0,0 +1,198 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="AutoImportSettings">
++    <option name="autoReloadType" value="SELECTIVE" />
++  </component>
++  <component name="ChangeListManager">
++    <list default="true" id="2b84af1b-3bb0-44d4-bd9f-04668dcc2d77" name="Default Changelist" comment="微信支付携带认证证书请求" />
++    <list id="7701bdc0-bf32-4369-8210-437b88f26083" name="target" comment="target">
++      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++    </list>
++    <option name="SHOW_DIALOG" value="false" />
++    <option name="HIGHLIGHT_CONFLICTS" value="true" />
++    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
++    <option name="LAST_RESOLUTION" value="IGNORE" />
++  </component>
++  <component name="FileTemplateManagerImpl">
++    <option name="RECENT_TEMPLATES">
++      <list>
++        <option value="Class" />
++      </list>
++    </option>
++  </component>
++  <component name="Git.Settings">
++    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++  </component>
++  <component name="GitSEFilterConfiguration">
++    <file-type-list>
++      <filtered-out-file-type name="LOCAL_BRANCH" />
++      <filtered-out-file-type name="REMOTE_BRANCH" />
++      <filtered-out-file-type name="TAG" />
++      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
++    </file-type-list>
++  </component>
++  <component name="ProjectId" id="26GzCZi0dPVLOFnmNVolTW8K7w2" />
++  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
++  <component name="ProjectViewState">
++    <option name="showLibraryContents" value="true" />
++    <option name="showVisibilityIcons" value="true" />
++  </component>
++  <component name="PropertiesComponent">
++    <property name="RequestMappingsPanelOrder0" value="0" />
++    <property name="RequestMappingsPanelOrder1" value="1" />
++    <property name="RequestMappingsPanelWidth0" value="75" />
++    <property name="RequestMappingsPanelWidth1" value="75" />
++    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
++    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
++    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
++    <property name="WebServerToolWindowFactoryState" value="false" />
++    <property name="aspect.path.notification.shown" value="true" />
++    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
++    <property name="last_opened_file_path" value="$PROJECT_DIR$/springboot-interceptor" />
++    <property name="project.structure.last.edited" value="Modules" />
++    <property name="project.structure.proportion" value="0.0" />
++    <property name="project.structure.side.proportion" value="0.0" />
++    <property name="settings.editor.selected.configurable" value="MavenSettings" />
++    <property name="vue.rearranger.settings.migration" value="true" />
++  </component>
++  <component name="RecentsManager">
++    <key name="CopyFile.RECENT_KEYS">
++      <recent name="F:\code\java-coder\wx-pay-demo\src\main\java\com\example\wxpaydemo" />
++      <recent name="F:\code\java-coder\springboot-minio\src\main\java\com\example\springbootminio\entity" />
++    </key>
++    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
++      <recent name="com.example.wxpaydemo" />
++    </key>
++    <key name="CopyClassDialog.RECENTS_KEY">
++      <recent name="com.example.wxpaydemo.util" />
++      <recent name="com.example.wxpaydemo.entity" />
++    </key>
++  </component>
++  <component name="RunDashboard">
++    <option name="configurationTypes">
++      <set>
++        <option value="SpringBootApplicationConfigurationType" />
++      </set>
++    </option>
++  </component>
++  <component name="RunManager" selected="Spring Boot.WxPayDemoApplication">
++    <configuration name="WXPayController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="com.example.wxpaydemo.controller.WXPayController" />
++      <module name="wx-pay-demo" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="com.example.wxpaydemo.controller.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <configuration name="JavaUtilApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
++      <module name="java-util" />
++      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.javautil.JavaUtilApplication" />
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <configuration name="SpringbootInterceptorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
++      <module name="springboot-interceptor" />
++      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springbootinterceptor.SpringbootInterceptorApplication" />
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <configuration name="SpringbootMinioApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
++      <module name="springboot-minio" />
++      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springbootminio.SpringbootMinioApplication" />
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <configuration name="WxPayDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
++      <module name="wx-pay-demo" />
++      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.wxpaydemo.WxPayDemoApplication" />
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <recent_temporary>
++      <list>
++        <item itemvalue="Application.WXPayController" />
++      </list>
++    </recent_temporary>
++  </component>
++  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
++  <component name="TaskManager">
++    <task active="true" id="Default" summary="Default task">
++      <changelist id="2b84af1b-3bb0-44d4-bd9f-04668dcc2d77" name="Default Changelist" comment="" />
++      <changelist id="7701bdc0-bf32-4369-8210-437b88f26083" name="target" comment="" />
++      <created>1647064586048</created>
++      <option name="number" value="Default" />
++      <option name="presentableId" value="Default" />
++      <updated>1647064586048</updated>
++      <workItem from="1647064587294" duration="8399000" />
++      <workItem from="1647096089257" duration="182000" />
++      <workItem from="1649483717253" duration="3027000" />
++      <workItem from="1649565122503" duration="3818000" />
++      <workItem from="1650446603468" duration="1258000" />
++    </task>
++    <task id="LOCAL-00001" summary="springboot - minio">
++      <created>1647094973431</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1647094973431</updated>
++    </task>
++    <task id="LOCAL-00002" summary="微信小程序对接微信支付">
++      <created>1649485096464</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1649485096464</updated>
++    </task>
++    <task id="LOCAL-00003" summary="微信支付查询订单">
++      <created>1649570167286</created>
++      <option name="number" value="00003" />
++      <option name="presentableId" value="LOCAL-00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1649570167286</updated>
++    </task>
++    <task id="LOCAL-00004" summary="微信支付携带认证证书请求">
++      <created>1650446939666</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1650446939666</updated>
++    </task>
++    <option name="localTasksCounter" value="5" />
++    <servers />
++  </component>
++  <component name="TypeScriptGeneratedFilesManager">
++    <option name="version" value="3" />
++  </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State />
++          </value>
++        </entry>
++      </map>
++    </option>
++    <option name="oldMeFiltersMigrated" value="true" />
++  </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="springboot - minio" />
++    <MESSAGE value="微信小程序对接微信支付" />
++    <MESSAGE value="微信支付查询订单" />
++    <MESSAGE value="微信支付携带认证证书请求" />
++    <option name="LAST_COMMIT_MESSAGE" value="微信支付携带认证证书请求" />
++  </component>
++</project>
+\ No newline at end of file

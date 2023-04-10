@@ -1,13 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/Code/own/langchao/Main.java" line="6" />
-    <bookmark url="file://$PROJECT_DIR$/src/Code/own/fanruan/Main.java" line="55" />
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cee5e3c5-59f1-406e-b720-c4d86cb77a63" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="cee5e3c5-59f1-406e-b720-c4d86cb77a63" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Code/practice/huawei/_11_CharStatisticAndSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Code/practice/huawei/_12_NumberCutDupAndSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Code/practice/huawei/_13_FindMinFromNumerString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Code/practice/huawei/_14_MinSumOfCoupleNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Code/practice/huawei/_1_FindContinuousSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Code/practice/huawei/_2_MinNumberFromArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Code/practice/huawei/_7_ArrayContinuousSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Code/practice/huawei/_8_UserDispatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Code/practice/huawei/_9_SortByUnitsDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Code/practice/huawei/niucoder/beginner/HJ101.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Code/practice/huawei/niucoder/beginner/HJ46.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Code/practice/huawei/niucoder/beginner/HJ58.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Code/practice/huawei/niucoder/beginner/HJ7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Code/practice/huawei/niucoder/beginner/HJ9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Code/practice/huawei/niucoder/middle/HJ16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Code/practice/huawei/niucoder/middle/HJ17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Code/practice/huawei/niucoder/simple/HJ1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Code/practice/huawei/niucoder/simple/HJ10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Code/practice/huawei/niucoder/simple/HJ11_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Code/practice/huawei/niucoder/simple/HJ13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Code/practice/huawei/niucoder/simple/HJ14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Code/practice/huawei/niucoder/simple/HJ15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Code/practice/huawei/niucoder/simple/HJ2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Code/practice/huawei/niucoder/simple/HJ21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Code/practice/huawei/niucoder/simple/HJ22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Code/practice/huawei/niucoder/simple/HJ4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Code/practice/huawei/niucoder/simple/HJ5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Code/practice/huawei/niucoder/simple/HJ6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Code/practice/huawei/niucoder/simple/HJ8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JUC并发工具.md" beforeDir="false" afterPath="$PROJECT_DIR$/../JUC并发工具.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../code/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../code/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/hashmapendlessloop/hashmapendlessloop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../code/hashmapendlessloop/hashmapendlessloop.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/out/production/code/singleton/LazyOfDoubleChecked.class" beforeDir="false" afterPath="$PROJECT_DIR$/../code/out/production/code/singleton/LazyOfDoubleChecked.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/out/production/code/threadcoreknowledge/createthreads/BothRunnableAndThread$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../code/out/production/code/threadcoreknowledge/createthreads/BothRunnableAndThread$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/src/singleton/LazyOfDoubleChecked.java" beforeDir="false" afterPath="$PROJECT_DIR$/../code/src/singleton/LazyOfDoubleChecked.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview_code/Code/anonym/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview_code/Code/own/fanruan/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interview_code/META-INF/interview_code.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/interview_code/META-INF/interview_code.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/fanruan/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Code/own/fanruan/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../多线程底层原理.md" beforeDir="false" afterPath="$PROJECT_DIR$/../多线程底层原理.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../线程基础与核心.md" beforeDir="false" afterPath="$PROJECT_DIR$/../线程基础与核心.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../综合.md" beforeDir="false" afterPath="$PROJECT_DIR$/../综合.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,67 +73,6 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Code/own/youzan/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="810">
-              <caret line="47" column="40" selection-start-line="15" selection-start-column="8" selection-end-line="47" selection-end-column="40" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Code/own/youzan/Main1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="24" column="65" selection-start-line="24" selection-start-column="65" selection-end-line="24" selection-end-column="65" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Code/other/bohaibank/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Code/own/huawei/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-696">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Code/own/huawei/Main2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" column="49" lean-forward="true" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Code/own/huawei/Main3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -85,163 +82,32 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>remove</find>
-      <find>cc</find>
-      <find>scanner</find>
-      <find>destination</find>
-      <find>HashMap</find>
-    </findStrings>
-    <replaceStrings>
-      <replace />
-      <replace>stone</replace>
-      <replace>stone2</replace>
-      <replace>end</replace>
-      <replace>Pair</replace>
-    </replaceStrings>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/Code/own/wangyi_internet/Main.java" />
-        <option value="$PROJECT_DIR$/src/Code/own/wangyi_internet/Main2.java" />
-        <option value="$PROJECT_DIR$/src/Code/own/yuanfudao/Main.java" />
-        <option value="$PROJECT_DIR$/src/Code/own/yuanfudao/Main2.java" />
-        <option value="$PROJECT_DIR$/src/Code/own/langchao/Main.java" />
-        <option value="$PROJECT_DIR$/src/Code/own/langchao/Test.java" />
-        <option value="$PROJECT_DIR$/src/Code/own/langchao/Main1.java" />
-        <option value="$PROJECT_DIR$/src/Code/other/jianhangjinke/Main.java" />
-        <option value="$PROJECT_DIR$/src/Code/anonym/Anonym1.java" />
-        <option value="$PROJECT_DIR$/src/Code/other/xinlang/Main.java" />
-        <option value="$PROJECT_DIR$/src/Code/other/xinlang/Test.java" />
-        <option value="$PROJECT_DIR$/src/Code/own/shunfeng/Main2.java" />
-        <option value="$PROJECT_DIR$/src/Code/own/shunfeng/Test.java" />
-        <option value="$PROJECT_DIR$/src/Code/other/didi/L2.java" />
-        <option value="$PROJECT_DIR$/src/Code/other/didi/L1.java" />
-        <option value="$PROJECT_DIR$/src/Code/other/didi/Test14.java" />
-        <option value="$PROJECT_DIR$/src/Code/own/shunfeng/Main.java" />
-        <option value="$PROJECT_DIR$/src/Code/own/duxiaoman/Main.java" />
-        <option value="$PROJECT_DIR$/src/Code/own/tongcheng58/Main.java" />
-        <option value="$PROJECT_DIR$/src/Code/own/tongcheng58/Main3.java" />
-        <option value="$PROJECT_DIR$/src/Code/own/tongcheng58/Main2.java" />
-        <option value="$PROJECT_DIR$/src/Code/own/kingsoft/Main.java" />
-        <option value="$PROJECT_DIR$/src/Code/own/kingsoft/Main2.java" />
-        <option value="$PROJECT_DIR$/src/Code/own/okchain/Test1.java" />
-        <option value="$PROJECT_DIR$/src/Code/other/jingdong/Main.java" />
-        <option value="$PROJECT_DIR$/src/Code/own/growingio/Main.java" />
-        <option value="$PROJECT_DIR$/src/Code/own/growingio/Main2.java" />
-        <option value="$PROJECT_DIR$/src/Code/own/fanruan/Main.java" />
-        <option value="$PROJECT_DIR$/src/Code/own/tiger/Main2.java" />
-        <option value="$PROJECT_DIR$/src/Code/own/tiger/Main.java" />
-        <option value="$PROJECT_DIR$/src/Code/own/meituan/Main.java" />
-        <option value="$PROJECT_DIR$/src/Code/own/qunaer/Main1.java" />
-        <option value="$PROJECT_DIR$/src/Code/own/qunaer/Main.java" />
-        <option value="$PROJECT_DIR$/src/Code/own/qunaer/Main2.java" />
-        <option value="$PROJECT_DIR$/src/Code/own/qunaer/Main3.java" />
-        <option value="$PROJECT_DIR$/src/Code/own/duxiaoman/Main2.java" />
-        <option value="$PROJECT_DIR$/src/Code/own/qianxin/Main.java" />
-        <option value="$PROJECT_DIR$/src/Code/own/qianxin/Main1.java" />
-        <option value="$PROJECT_DIR$/src/Code/own/wzbank/Main3.java" />
-        <option value="$PROJECT_DIR$/src/Code/own/wzbank/Main2.java" />
-        <option value="$PROJECT_DIR$/src/Code/own/wzbank/Main.java" />
-        <option value="$PROJECT_DIR$/src/Code/wps/Test15.java" />
-        <option value="$PROJECT_DIR$/src/Code/own/wps/Test15.java" />
-        <option value="$PROJECT_DIR$/src/Code/own/wps/Test2.java" />
-        <option value="$PROJECT_DIR$/src/Code/own/weimeng/Main.java" />
-        <option value="$PROJECT_DIR$/src/Code/own/weimeng/Main1.java" />
-        <option value="$PROJECT_DIR$/src/Code/own/weimeng/Main2.java" />
-        <option value="$PROJECT_DIR$/src/Code/own/youzan/Main.java" />
-        <option value="$PROJECT_DIR$/src/Code/own/youzan/Main1.java" />
-        <option value="$PROJECT_DIR$/src/Code/anonym/Main.java" />
-        <option value="$PROJECT_DIR$/src/Code/other/bohaibank/Main.java" />
-      </list>
-    </option>
+  <component name="ProjectId" id="2M34AUk2kxg2lxbh7vSYlKAvEUs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="52" />
-    <option name="y" value="30" />
-    <option name="width" value="1277" />
-    <option name="height" value="788" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interview_code" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interview_code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interview_code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Code" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interview_code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Code" type="462c0819:PsiDirectoryNode" />
-              <item name="anonym" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interview_code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Code" type="462c0819:PsiDirectoryNode" />
-              <item name="own" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interview_code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Code" type="462c0819:PsiDirectoryNode" />
-              <item name="own" type="462c0819:PsiDirectoryNode" />
-              <item name="huawei" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Code.own.weimeng.Main" />
+  <component name="RunManager" selected="Application._8_UserDispatch">
+    <configuration name="_11_CharStatisticAndSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Code.practice.huawei._11_CharStatisticAndSort" />
       <module name="interview_code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Code.own.weimeng.*" />
+          <option name="PATTERN" value="Code.practice.huawei.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -249,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Code.other.bohaibank.Main" />
+    <configuration name="_12_NumberCutDupAndSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Code.practice.huawei._12_NumberCutDupAndSort" />
       <module name="interview_code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Code.other.bohaibank.*" />
+          <option name="PATTERN" value="Code.practice.huawei.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -262,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Code.own.weimeng.Main1" />
+    <configuration name="_13_FindMinFromNumerString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Code.practice.huawei._13_FindMinFromNumerString" />
       <module name="interview_code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Code.own.weimeng.*" />
+          <option name="PATTERN" value="Code.practice.huawei.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -275,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Code.own.weimeng.Main2" />
+    <configuration name="_14_MinSumOfCoupleNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Code.practice.huawei._14_MinSumOfCoupleNumber" />
       <module name="interview_code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Code.own.weimeng.*" />
+          <option name="PATTERN" value="Code.practice.huawei.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -288,12 +154,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Code.own.wps.Test2" />
+    <configuration name="_8_UserDispatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Code.practice.huawei._8_UserDispatch" />
       <module name="interview_code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Code.own.wps.*" />
+          <option name="PATTERN" value="Code.practice.huawei.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -303,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main2 (1)" />
-        <item itemvalue="Application.Main1" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Test2" />
+        <item itemvalue="Application._8_UserDispatch" />
+        <item itemvalue="Application._14_MinSumOfCoupleNumber" />
+        <item itemvalue="Application._13_FindMinFromNumerString" />
+        <item itemvalue="Application._12_NumberCutDupAndSort" />
+        <item itemvalue="Application._11_CharStatisticAndSort" />
       </list>
     </recent_temporary>
   </component>
@@ -321,44 +187,75 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598247861364</updated>
+      <workItem from="1676982795039" duration="110042000" />
+      <workItem from="1678411819477" duration="3177000" />
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="52" y="30" width="1277" height="788" extended-state="1" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49625936" visible="true" weight="0.13835958" />
-      <window_info id="Structure" order="1" sideWeight="0.50374067" side_tool="true" weight="0.23580787" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.22291407" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4129129" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Tail" order="7" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32522407" />
-      <window_info anchor="bottom" id="Thumbnails" order="13" weight="0.23460898" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Coverage" order="8" side_tool="true" />
-    </layout>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1147" y="61" key="#com.intellij.ide.util.MemberChooser" timestamp="1677665743654">
+      <screen x="-1920" y="-155" width="1920" height="1055" />
+    </state>
+    <state x="-1147" y="61" key="#com.intellij.ide.util.MemberChooser/0.25.1440.875/-1920.-155.1920.1055@-1920.-155.1920.1055" timestamp="1677665743654" />
+    <state x="-1197" y="84" key="#xdebugger.evaluate" timestamp="1677925756621">
+      <screen x="-1920" y="-155" width="1920" height="1055" />
+    </state>
+    <state x="-1197" y="84" key="#xdebugger.evaluate/0.25.1440.875/-1920.-155.1920.1055@-1920.-155.1920.1055" timestamp="1677925756621" />
+    <state width="1878" height="367" key="GridCell.Tab.0.bottom" timestamp="1678370860183">
+      <screen x="-1920" y="-155" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="367" key="GridCell.Tab.0.bottom/0.25.1440.875/-1920.-155.1920.1055@-1920.-155.1920.1055" timestamp="1678370860183" />
+    <state width="1878" height="367" key="GridCell.Tab.0.center" timestamp="1678370860182">
+      <screen x="-1920" y="-155" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="367" key="GridCell.Tab.0.center/0.25.1440.875/-1920.-155.1920.1055@-1920.-155.1920.1055" timestamp="1678370860182" />
+    <state width="1878" height="367" key="GridCell.Tab.0.left" timestamp="1678370860182">
+      <screen x="-1920" y="-155" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="367" key="GridCell.Tab.0.left/0.25.1440.875/-1920.-155.1920.1055@-1920.-155.1920.1055" timestamp="1678370860182" />
+    <state width="1878" height="367" key="GridCell.Tab.0.right" timestamp="1678370860183">
+      <screen x="-1920" y="-155" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="367" key="GridCell.Tab.0.right/0.25.1440.875/-1920.-155.1920.1055@-1920.-155.1920.1055" timestamp="1678370860183" />
+    <state width="1878" height="367" key="GridCell.Tab.1.bottom" timestamp="1678370860183">
+      <screen x="-1920" y="-155" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="367" key="GridCell.Tab.1.bottom/0.25.1440.875/-1920.-155.1920.1055@-1920.-155.1920.1055" timestamp="1678370860183" />
+    <state width="1878" height="367" key="GridCell.Tab.1.center" timestamp="1678370860183">
+      <screen x="-1920" y="-155" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="367" key="GridCell.Tab.1.center/0.25.1440.875/-1920.-155.1920.1055@-1920.-155.1920.1055" timestamp="1678370860183" />
+    <state width="1878" height="367" key="GridCell.Tab.1.left" timestamp="1678370860183">
+      <screen x="-1920" y="-155" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="367" key="GridCell.Tab.1.left/0.25.1440.875/-1920.-155.1920.1055@-1920.-155.1920.1055" timestamp="1678370860183" />
+    <state width="1878" height="367" key="GridCell.Tab.1.right" timestamp="1678370860183">
+      <screen x="-1920" y="-155" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="367" key="GridCell.Tab.1.right/0.25.1440.875/-1920.-155.1920.1055@-1920.-155.1920.1055" timestamp="1678370860183" />
+    <state x="-1451" y="8" key="SettingsEditor" timestamp="1676988604605">
+      <screen x="-1920" y="-155" width="1920" height="1055" />
+    </state>
+    <state x="-1451" y="8" key="SettingsEditor/0.25.1440.875/-1920.-155.1920.1055@-1920.-155.1920.1055" timestamp="1676988604605" />
+    <state x="-1222" y="125" key="extract.method.dialog" timestamp="1677167132869">
+      <screen x="-1920" y="-155" width="1920" height="1055" />
+    </state>
+    <state x="-1222" y="125" key="extract.method.dialog/0.25.1440.875/-1920.-155.1920.1055@-1920.-155.1920.1055" timestamp="1677167132869" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -366,380 +263,380 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Code/A360/Main.java</url>
           <line>28</line>
-          <properties />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Code/A360/Main.java</url>
           <line>43</line>
-          <properties />
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Code/alibaba/Main.java</url>
           <line>21</line>
-          <properties />
           <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Code/alibaba/Main.java</url>
           <line>42</line>
-          <properties />
           <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Code/own/jd/Main.java</url>
           <line>60</line>
-          <properties />
           <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Code/own/jd/Main.java</url>
           <line>54</line>
-          <properties />
           <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Code/own/vipkid/Main.java</url>
           <line>38</line>
-          <properties />
           <option name="timeStamp" value="29" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Code/own/vipkid/Main1.java</url>
           <line>15</line>
-          <properties />
           <option name="timeStamp" value="30" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Code/other/abc/Main.java</url>
           <line>48</line>
-          <properties />
           <option name="timeStamp" value="32" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Code/other/abc/Main.java</url>
           <line>59</line>
-          <properties />
           <option name="timeStamp" value="36" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Code/own/xunfei/Main3.java</url>
           <line>39</line>
-          <properties />
           <option name="timeStamp" value="42" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Code/other/xxx/Main1.java</url>
           <line>16</line>
-          <properties />
           <option name="timeStamp" value="48" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Code/other/xxx/Main1.java</url>
           <line>27</line>
-          <properties />
           <option name="timeStamp" value="49" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Code/other/xxx/Main1.java</url>
           <line>41</line>
-          <properties />
           <option name="timeStamp" value="50" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Code/other/souhu/Main.java</url>
           <line>24</line>
-          <properties />
           <option name="timeStamp" value="51" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Code/own/xiaohongshu/Main.java</url>
           <line>57</line>
-          <properties />
           <option name="timeStamp" value="53" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Code/own/xiaohongshu/Main.java</url>
           <line>13</line>
-          <properties />
           <option name="timeStamp" value="54" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Code/own/xiaohongshu/Main.java</url>
           <line>22</line>
-          <properties />
           <option name="timeStamp" value="55" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Code/own/xiaohongshu/Main.java</url>
           <line>25</line>
-          <properties />
           <option name="timeStamp" value="56" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Code/own/xiaohongshu/Main3.java</url>
           <line>21</line>
-          <properties />
           <option name="timeStamp" value="60" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Code/own/huanju/Main.java</url>
           <line>17</line>
-          <properties />
           <option name="timeStamp" value="68" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Code/other/tongcheng58/Main2.java</url>
           <line>11</line>
-          <properties />
           <option name="timeStamp" value="74" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Code/other/tongcheng58/Main2.java</url>
           <line>29</line>
-          <properties />
           <option name="timeStamp" value="85" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Code/other/tongcheng58/Main2.java</url>
           <line>21</line>
-          <properties />
           <option name="timeStamp" value="87" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Code/own/baidu/Main.java</url>
           <line>14</line>
-          <properties />
           <option name="timeStamp" value="89" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Code/own/baidu/Main.java</url>
           <line>37</line>
-          <properties />
           <option name="timeStamp" value="90" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Code/own/baidu/Main.java</url>
           <line>66</line>
-          <properties />
           <option name="timeStamp" value="92" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Code/own/baidu/Main2.java</url>
           <line>59</line>
-          <properties />
           <option name="timeStamp" value="94" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Code/other/xxx/Main3.java</url>
           <line>32</line>
-          <properties />
           <option name="timeStamp" value="96" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Code/other/xxx/Main3.java</url>
           <line>40</line>
-          <properties />
           <option name="timeStamp" value="97" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Code/other/xxx/Main3.java</url>
           <line>58</line>
-          <properties />
           <option name="timeStamp" value="99" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Code/own/beike/Main2.java</url>
           <line>18</line>
-          <properties />
           <option name="timeStamp" value="101" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Code/own/beike/Main4.java</url>
           <line>22</line>
-          <properties />
           <option name="timeStamp" value="107" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Code/own/beike/Main4.java</url>
           <line>32</line>
-          <properties />
           <option name="timeStamp" value="108" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Code/own/huawei/Main.java</url>
           <line>22</line>
-          <properties />
           <option name="timeStamp" value="110" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Code/own/huawei/Main.java</url>
           <line>44</line>
-          <properties />
           <option name="timeStamp" value="111" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Code/own/huawei/Main.java</url>
           <line>36</line>
-          <properties />
           <option name="timeStamp" value="112" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Code/own/huawei/Main3.java</url>
           <line>16</line>
-          <properties />
           <option name="timeStamp" value="114" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Code/other/xingyebank/Main.java</url>
           <line>51</line>
-          <properties />
           <option name="timeStamp" value="116" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Code/other/xingyebank/Main.java</url>
           <line>22</line>
-          <properties />
           <option name="timeStamp" value="118" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Code/own/yuanfudao/Main2.java</url>
           <line>10</line>
-          <properties />
           <option name="timeStamp" value="120" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Code/own/yuanfudao/Main2.java</url>
           <line>16</line>
-          <properties />
           <option name="timeStamp" value="122" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Code/own/yuanfudao/Main2.java</url>
           <line>31</line>
-          <properties />
           <option name="timeStamp" value="123" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Code/other/jianhangjinke/Main.java</url>
           <line>14</line>
-          <properties />
           <option name="timeStamp" value="124" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Code/other/jianhangjinke/Main.java</url>
           <line>23</line>
-          <properties />
           <option name="timeStamp" value="125" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Code/own/shunfeng/Test.java</url>
           <line>13</line>
-          <properties />
           <option name="timeStamp" value="128" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Code/own/duxiaoman/Main2.java</url>
           <line>26</line>
-          <properties />
           <option name="timeStamp" value="129" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Code/own/tongcheng58/Main.java</url>
           <line>15</line>
-          <properties />
           <option name="timeStamp" value="130" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Code/other/jingdong/Main.java</url>
           <line>43</line>
-          <properties />
           <option name="timeStamp" value="149" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Code/own/growingio/Main.java</url>
           <line>23</line>
-          <properties />
           <option name="timeStamp" value="150" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Code/own/fanruan/Main.java</url>
           <line>44</line>
-          <properties />
           <option name="timeStamp" value="155" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Code/own/fanruan/Main.java</url>
           <line>48</line>
-          <properties />
           <option name="timeStamp" value="156" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Code/own/fanruan/Main.java</url>
           <line>81</line>
-          <properties />
           <option name="timeStamp" value="163" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Code/own/fanruan/Main.java</url>
           <line>33</line>
-          <properties />
           <option name="timeStamp" value="166" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Code/own/tiger/Main.java</url>
           <line>30</line>
-          <properties />
           <option name="timeStamp" value="167" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Code/own/meituan/Main.java</url>
           <line>8</line>
-          <properties />
           <option name="timeStamp" value="168" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Code/own/qunaer/Main3.java</url>
           <line>63</line>
-          <properties />
           <option name="timeStamp" value="171" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Code/own/qunaer/Main3.java</url>
           <line>71</line>
-          <properties />
           <option name="timeStamp" value="172" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Code/own/wzbank/Main2.java</url>
           <line>37</line>
-          <properties />
           <option name="timeStamp" value="178" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Code/own/wzbank/Main2.java</url>
           <line>42</line>
-          <properties />
           <option name="timeStamp" value="179" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Code/own/wzbank/Main2.java</url>
           <line>45</line>
-          <properties />
           <option name="timeStamp" value="180" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Code/own/weimeng/Main2.java</url>
           <line>24</line>
-          <properties />
           <option name="timeStamp" value="181" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Code/own/weimeng/Main2.java</url>
           <line>43</line>
-          <properties />
           <option name="timeStamp" value="183" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Code/practice/huawei/_1_FindContinuousSequence.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="184" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Code/practice/huawei/niucoder/beginner/HJ9.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="186" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Code/practice/huawei/niucoder/beginner/HJ46.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="187" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Code/practice/huawei/niucoder/beginner/HJ101.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="188" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Code/practice/huawei/niucoder/middle/HJ16.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="193" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Code/practice/huawei/niucoder/middle/HJ16.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="199" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Code/practice/huawei/niucoder/middle/HJ17.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="200" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Code/practice/huawei/_11_CharStatisticAndSort.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="201" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Code/practice/huawei/_12_NumberCutDupAndSort.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="204" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Code/practice/huawei/_12_NumberCutDupAndSort.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="206" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Code/practice/huawei/_14_MinSumOfCoupleNumber.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="207" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Code/practice/huawei/_8_UserDispatch.java</url>
+          <line>27</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="209" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -757,480 +654,5 @@
     <option name="browserPath" value="" />
     <option name="multicastHost" value="236.1.2.3" />
     <option name="multicastPort" value="3274" />
-  </component>
-  <component name="debuggerHistoryManager">
-    <expressions id="evaluateExpression">
-      <expression>
-        <expression-string>root.val == 5</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-    </expressions>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Code/own/tongcheng58/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="990">
-          <caret line="55" selection-start-line="2" selection-end-line="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Code/own/tongcheng58/Main3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Code/own/kingsoftcloud.java" />
-    <entry file="file://$PROJECT_DIR$/src/Code/own/tongcheng58/Main2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="38" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Code/own/okchain/Test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Code/other/jingdong/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="100" column="5" lean-forward="true" selection-start-line="100" selection-start-column="5" selection-end-line="100" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Code/own/shunwang/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Code/own/growingio/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="38" column="53" lean-forward="true" selection-start-line="27" selection-start-column="8" selection-end-line="38" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Code/own/growingio/Main2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="38" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Code/own/fanruan/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="65" column="24" lean-forward="true" selection-start-line="65" selection-start-column="24" selection-end-line="65" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Code/own/tiger/Main2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Code/own/tiger/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="54" column="2" selection-start-line="54" selection-start-column="2" selection-end-line="54" selection-end-column="2" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Code/own/shunfeng/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="35" column="43" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Code/own/shunfeng/Main2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="503">
-          <caret line="29" column="53" selection-start-line="29" selection-start-column="53" selection-end-line="29" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Code/own/xuanwu/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Code/own/kingsoft/Main2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2559#2560#0" expanded="true" />
-            <element signature="e#2597#2598#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Code/own/kingsoft/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Code/own/langchao/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Code/own/langchao/Main1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="115" column="32" selection-start-line="115" selection-start-column="32" selection-end-line="115" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Code/own/langchao/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Code/own/meituan/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Code/other/qianxin/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Code/own/qunaer/Main3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="70" column="9" selection-start-line="70" selection-start-column="9" selection-end-line="70" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Code/own/qunaer/Main2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Code/own/qunaer/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" column="27" lean-forward="true" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Code/own/A360/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Code/own/A360/Main1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Code/own/bytedance/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Code/own/bytedance/Main2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Code/own/bytedance/Main3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Code/own/bytedance/Main4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Code/own/duxiaoman/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="45" lean-forward="true" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Code/own/duxiaoman/Main2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="656">
-          <caret line="60" column="9" selection-start-line="60" selection-start-column="9" selection-end-line="60" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="209" column="30" selection-start-line="209" selection-start-column="16" selection-end-line="209" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Code/own/qianxin/Main1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="45" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Code/own/qianxin/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" selection-start-line="10" selection-end-line="28" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Code/own/wzbank/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Code/own/wps/Test15.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/Math.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20178">
-          <caret line="1181" column="22" selection-start-line="1181" selection-start-column="22" selection-end-line="1181" selection-end-column="22" />
-          <folding>
-            <element signature="e#46227#46228#0" expanded="true" />
-            <element signature="e#46266#46267#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Code/own/wzbank/Main2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Code/own/wzbank/Main3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" selection-start-line="2" selection-end-line="38" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Code/own/wps/Test2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="42" lean-forward="true" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Code/own/weimeng/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="34" column="19" selection-start-line="20" selection-start-column="8" selection-end-line="34" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Code/own/weimeng/Main1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="28" column="38" selection-start-line="16" selection-start-column="8" selection-end-line="28" selection-end-column="38" />
-          <folding>
-            <element signature="e#206#207#0" expanded="true" />
-            <element signature="e#236#237#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Code/own/weimeng/Main2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-18">
-          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#588#589#0" expanded="true" />
-            <element signature="e#618#619#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Code/own/youzan/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="47" column="40" selection-start-line="15" selection-start-column="8" selection-end-line="47" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Code/own/youzan/Main1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="24" column="65" selection-start-line="24" selection-start-column="65" selection-end-line="24" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Code/other/bohaibank/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Code/own/huawei/Main3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Code/own/huawei/Main2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="49" lean-forward="true" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Code/own/huawei/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-696">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>

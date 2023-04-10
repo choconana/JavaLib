@@ -25,4 +25,9 @@ public class LazyOfDoubleChecked {
         }
         return instance;
     }
+
+
+    public static void main(String[] args) {
+        LazyOfDoubleChecked.getInstance();
+    }
 }
