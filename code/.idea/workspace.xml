@@ -20,51 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9ab26b8-f03a-43a5-8e34-3246589f8536" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../interview_code/src/Code/practice/huawei/_11_CharStatisticAndSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../interview_code/src/Code/practice/huawei/_12_NumberCutDupAndSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../interview_code/src/Code/practice/huawei/_13_FindMinFromNumerString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../interview_code/src/Code/practice/huawei/_14_MinSumOfCoupleNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../interview_code/src/Code/practice/huawei/_1_FindContinuousSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../interview_code/src/Code/practice/huawei/_2_MinNumberFromArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../interview_code/src/Code/practice/huawei/_7_ArrayContinuousSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../interview_code/src/Code/practice/huawei/_8_UserDispatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../interview_code/src/Code/practice/huawei/_9_SortByUnitsDigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../interview_code/src/Code/practice/huawei/niucoder/beginner/HJ101.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../interview_code/src/Code/practice/huawei/niucoder/beginner/HJ46.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../interview_code/src/Code/practice/huawei/niucoder/beginner/HJ58.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../interview_code/src/Code/practice/huawei/niucoder/beginner/HJ7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../interview_code/src/Code/practice/huawei/niucoder/beginner/HJ9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../interview_code/src/Code/practice/huawei/niucoder/middle/HJ16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../interview_code/src/Code/practice/huawei/niucoder/middle/HJ17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../interview_code/src/Code/practice/huawei/niucoder/simple/HJ1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../interview_code/src/Code/practice/huawei/niucoder/simple/HJ10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../interview_code/src/Code/practice/huawei/niucoder/simple/HJ11_12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../interview_code/src/Code/practice/huawei/niucoder/simple/HJ13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../interview_code/src/Code/practice/huawei/niucoder/simple/HJ14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../interview_code/src/Code/practice/huawei/niucoder/simple/HJ15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../interview_code/src/Code/practice/huawei/niucoder/simple/HJ2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../interview_code/src/Code/practice/huawei/niucoder/simple/HJ21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../interview_code/src/Code/practice/huawei/niucoder/simple/HJ22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../interview_code/src/Code/practice/huawei/niucoder/simple/HJ4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../interview_code/src/Code/practice/huawei/niucoder/simple/HJ5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../interview_code/src/Code/practice/huawei/niucoder/simple/HJ6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../interview_code/src/Code/practice/huawei/niucoder/simple/HJ8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JUC并发工具.md" beforeDir="false" afterPath="$PROJECT_DIR$/../JUC并发工具.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hashmapendlessloop/hashmapendlessloop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hashmapendlessloop/hashmapendlessloop.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code/singleton/LazyOfDoubleChecked.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code/singleton/LazyOfDoubleChecked.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code/threadcoreknowledge/createthreads/BothRunnableAndThread$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code/threadcoreknowledge/createthreads/BothRunnableAndThread$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/singleton/LazyOfDoubleChecked.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/singleton/LazyOfDoubleChecked.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../interview_code/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../interview_code/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../interview_code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../interview_code/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../interview_code/out/production/interview_code/Code/anonym/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../interview_code/out/production/interview_code/Code/own/fanruan/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../interview_code/out/production/interview_code/META-INF/interview_code.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/../interview_code/out/production/interview_code/META-INF/interview_code.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../interview_code/src/Code/own/fanruan/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../interview_code/src/Code/own/fanruan/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../多线程底层原理.md" beforeDir="false" afterPath="$PROJECT_DIR$/../多线程底层原理.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../线程基础与核心.md" beforeDir="false" afterPath="$PROJECT_DIR$/../线程基础与核心.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../综合.md" beforeDir="false" afterPath="$PROJECT_DIR$/../综合.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -286,6 +243,8 @@
       <workItem from="1662967390002" duration="597000" />
       <workItem from="1676644456483" duration="5852000" />
       <workItem from="1678411818131" duration="3435000" />
+      <workItem from="1681292290796" duration="564000" />
+      <workItem from="1681353009551" duration="597000" />
     </task>
     <servers />
   </component>
