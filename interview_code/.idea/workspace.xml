@@ -22,6 +22,138 @@
     <list default="true" id="cee5e3c5-59f1-406e-b720-c4d86cb77a63" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../code/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/anonym/Anonym1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/anonym/Anonym1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/anonym/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/anonym/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/other/abc/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/other/abc/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/other/bohaibank/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/other/bohaibank/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/other/didi/L1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/other/didi/L1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/other/didi/L2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/other/didi/L2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/other/didi/Test14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/other/didi/Test14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/other/haoweilai/test16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/other/haoweilai/test16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/other/huawei1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/other/huawei1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/other/jianhangjinke/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/other/jianhangjinke/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/other/jingdong/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/other/jingdong/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/other/qianxin/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/other/qianxin/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/other/souhu/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/other/souhu/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/other/tongcheng58/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/other/tongcheng58/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/other/tongcheng58/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/other/tongcheng58/Main3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/other/tongcheng58/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/other/tongcheng58/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/other/xingyebank/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/other/xingyebank/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/other/xinlang/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/other/xinlang/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/other/xinlang/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/other/xinlang/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/other/xinlang/comments.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/other/xinlang/comments.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/other/xinlang/comments_reply.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/other/xinlang/comments_reply.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/other/xxx/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/other/xxx/Main1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/other/xxx/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/other/xxx/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/other/xxx/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/other/xxx/Main3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/A360/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/A360/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/A360/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/A360/Main1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/alibaba/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/alibaba/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/alibaba/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/alibaba/Main1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/baidu/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/baidu/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/baidu/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/baidu/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/baidu/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/baidu/Main3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/beike/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/beike/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/beike/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/beike/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/beike/Main4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/beike/Main4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/bytedance/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/bytedance/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/bytedance/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/bytedance/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/bytedance/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/bytedance/Main3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/bytedance/Main4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/bytedance/Main4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/duxiaoman/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/duxiaoman/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/duxiaoman/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/duxiaoman/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/fanruan/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/fanruan/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/growingio/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/growingio/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/growingio/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/growingio/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/haoweilai/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/haoweilai/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/haoweilai/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/haoweilai/Main1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/huanju/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/huanju/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/huawei/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/huawei/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/huawei/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/huawei/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/huawei/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/huawei/Main3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/jd/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/jd/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/jd/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/jd/Main1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/kingsoft/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/kingsoft/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/kingsoft/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/kingsoft/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/langchao/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/langchao/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/langchao/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/langchao/Main1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/langchao/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/langchao/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/meituan/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/meituan/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/meituan/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/meituan/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/meituan/Main4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/meituan/Main4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/meituan/Main5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/meituan/Main5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/okchain/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/okchain/Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/qianxin/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/qianxin/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/qianxin/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/qianxin/Main1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/qunaer/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/qunaer/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/qunaer/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/qunaer/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/qunaer/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/qunaer/Main3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/shunfeng/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/shunfeng/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/shunfeng/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/shunfeng/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/shunfeng/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/shunfeng/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/shunwang/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/shunwang/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/sohu/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/sohu/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/sohu/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/sohu/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/tiger/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/tiger/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/tiger/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/tiger/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/tongcheng58/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/tongcheng58/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/tongcheng58/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/tongcheng58/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/tongcheng58/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/tongcheng58/Main3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/vipkid/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/vipkid/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/vipkid/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/vipkid/Main1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/wangyi_internet/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/wangyi_internet/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/wangyi_internet/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/wangyi_internet/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/weimeng/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/weimeng/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/weimeng/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/weimeng/Main1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/weimeng/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/weimeng/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/wps/Test15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/wps/Test15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/wps/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/wps/Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/wzbank/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/wzbank/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/wzbank/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/wzbank/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/wzbank/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/wzbank/Main3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/xiaohongshu/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/xiaohongshu/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/xiaohongshu/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/xiaohongshu/Main1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/xiaohongshu/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/xiaohongshu/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/xiaohongshu/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/xiaohongshu/Main3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/xuanwu/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/xuanwu/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/xunfei/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/xunfei/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/xunfei/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/xunfei/Main1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/xunfei/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/xunfei/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/xunfei/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/xunfei/Main3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/youzan/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/youzan/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/youzan/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/youzan/Main1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/yuanfudao/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/yuanfudao/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/own/yuanfudao/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/own/yuanfudao/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/practice/huawei/_11_CharStatisticAndSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/practice/huawei/_11_CharStatisticAndSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/practice/huawei/_12_NumberCutDupAndSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/practice/huawei/_12_NumberCutDupAndSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/practice/huawei/_13_FindMinFromNumerString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/practice/huawei/_13_FindMinFromNumerString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/practice/huawei/_14_MinSumOfCoupleNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/practice/huawei/_14_MinSumOfCoupleNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/practice/huawei/_1_FindContinuousSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/practice/huawei/_1_FindContinuousSequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/practice/huawei/_2_MinNumberFromArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/practice/huawei/_2_MinNumberFromArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/practice/huawei/_7_ArrayContinuousSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/practice/huawei/_7_ArrayContinuousSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/practice/huawei/_8_UserDispatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/practice/huawei/_8_UserDispatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/practice/huawei/_9_SortByUnitsDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/practice/huawei/_9_SortByUnitsDigit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/practice/huawei/niucoder/beginner/HJ101.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/practice/huawei/niucoder/beginner/HJ101.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/practice/huawei/niucoder/beginner/HJ46.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/practice/huawei/niucoder/beginner/HJ46.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/practice/huawei/niucoder/beginner/HJ58.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/practice/huawei/niucoder/beginner/HJ58.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/practice/huawei/niucoder/beginner/HJ7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/practice/huawei/niucoder/beginner/HJ7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/practice/huawei/niucoder/beginner/HJ9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/practice/huawei/niucoder/beginner/HJ9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/practice/huawei/niucoder/middle/HJ16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/practice/huawei/niucoder/middle/HJ16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/practice/huawei/niucoder/middle/HJ17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/practice/huawei/niucoder/middle/HJ17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/practice/huawei/niucoder/simple/HJ1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/practice/huawei/niucoder/simple/HJ1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/practice/huawei/niucoder/simple/HJ10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/practice/huawei/niucoder/simple/HJ10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/practice/huawei/niucoder/simple/HJ11_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/practice/huawei/niucoder/simple/HJ11_12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/practice/huawei/niucoder/simple/HJ13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/practice/huawei/niucoder/simple/HJ13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/practice/huawei/niucoder/simple/HJ14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/practice/huawei/niucoder/simple/HJ14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/practice/huawei/niucoder/simple/HJ15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/practice/huawei/niucoder/simple/HJ15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/practice/huawei/niucoder/simple/HJ2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/practice/huawei/niucoder/simple/HJ2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/practice/huawei/niucoder/simple/HJ21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/practice/huawei/niucoder/simple/HJ21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/practice/huawei/niucoder/simple/HJ22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/practice/huawei/niucoder/simple/HJ22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/practice/huawei/niucoder/simple/HJ4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/practice/huawei/niucoder/simple/HJ4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/practice/huawei/niucoder/simple/HJ5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/practice/huawei/niucoder/simple/HJ5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/practice/huawei/niucoder/simple/HJ6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/practice/huawei/niucoder/simple/HJ6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/practice/huawei/niucoder/simple/HJ8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/practice/huawei/niucoder/simple/HJ8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdk1_8_learning/src/source/src/java/util/HashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jdk1_8_learning/src/source/src/java/util/HashMap.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +182,8 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -60,11 +194,11 @@
   </component>
   <component name="RunManager" selected="Application._8_UserDispatch">
     <configuration name="_11_CharStatisticAndSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Code.practice.huawei._11_CharStatisticAndSort" />
+      <option name="MAIN_CLASS_NAME" value="code.practice.huawei._11_CharStatisticAndSort" />
       <module name="interview_code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Code.practice.huawei.*" />
+          <option name="PATTERN" value="code.practice.huawei.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,11 +207,11 @@
       </method>
     </configuration>
     <configuration name="_12_NumberCutDupAndSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Code.practice.huawei._12_NumberCutDupAndSort" />
+      <option name="MAIN_CLASS_NAME" value="code.practice.huawei._12_NumberCutDupAndSort" />
       <module name="interview_code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Code.practice.huawei.*" />
+          <option name="PATTERN" value="code.practice.huawei.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,11 +220,11 @@
       </method>
     </configuration>
     <configuration name="_13_FindMinFromNumerString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Code.practice.huawei._13_FindMinFromNumerString" />
+      <option name="MAIN_CLASS_NAME" value="code.practice.huawei._13_FindMinFromNumerString" />
       <module name="interview_code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Code.practice.huawei.*" />
+          <option name="PATTERN" value="code.practice.huawei.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,11 +233,11 @@
       </method>
     </configuration>
     <configuration name="_14_MinSumOfCoupleNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Code.practice.huawei._14_MinSumOfCoupleNumber" />
+      <option name="MAIN_CLASS_NAME" value="code.practice.huawei._14_MinSumOfCoupleNumber" />
       <module name="interview_code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Code.practice.huawei.*" />
+          <option name="PATTERN" value="code.practice.huawei.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +246,11 @@
       </method>
     </configuration>
     <configuration name="_8_UserDispatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Code.practice.huawei._8_UserDispatch" />
+      <option name="MAIN_CLASS_NAME" value="code.practice.huawei._8_UserDispatch" />
       <module name="interview_code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Code.practice.huawei.*" />
+          <option name="PATTERN" value="code.practice.huawei.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,6 +282,11 @@
       <workItem from="1678411819477" duration="3177000" />
       <workItem from="1681292300607" duration="563000" />
       <workItem from="1681353004474" duration="595000" />
+      <workItem from="1681431289408" duration="598000" />
+      <workItem from="1681883729729" duration="585000" />
+      <workItem from="1682060095096" duration="1242000" />
+      <workItem from="1683754072486" duration="597000" />
+      <workItem from="1684286618265" duration="595000" />
     </task>
     <servers />
   </component>
@@ -220,377 +359,377 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/A360/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/code/A360/Main.java</url>
           <line>28</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/A360/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/code/A360/Main.java</url>
           <line>43</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/alibaba/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/code/alibaba/Main.java</url>
           <line>21</line>
           <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/alibaba/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/code/alibaba/Main.java</url>
           <line>42</line>
           <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/own/jd/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/code/own/jd/Main.java</url>
           <line>60</line>
           <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/own/jd/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/code/own/jd/Main.java</url>
           <line>54</line>
           <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/own/vipkid/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/code/own/vipkid/Main.java</url>
           <line>38</line>
           <option name="timeStamp" value="29" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/own/vipkid/Main1.java</url>
+          <url>file://$PROJECT_DIR$/src/code/own/vipkid/Main1.java</url>
           <line>15</line>
           <option name="timeStamp" value="30" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/other/abc/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/code/other/abc/Main.java</url>
           <line>48</line>
           <option name="timeStamp" value="32" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/other/abc/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/code/other/abc/Main.java</url>
           <line>59</line>
           <option name="timeStamp" value="36" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/own/xunfei/Main3.java</url>
+          <url>file://$PROJECT_DIR$/src/code/own/xunfei/Main3.java</url>
           <line>39</line>
           <option name="timeStamp" value="42" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/other/xxx/Main1.java</url>
+          <url>file://$PROJECT_DIR$/src/code/other/xxx/Main1.java</url>
           <line>16</line>
           <option name="timeStamp" value="48" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/other/xxx/Main1.java</url>
+          <url>file://$PROJECT_DIR$/src/code/other/xxx/Main1.java</url>
           <line>27</line>
           <option name="timeStamp" value="49" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/other/xxx/Main1.java</url>
+          <url>file://$PROJECT_DIR$/src/code/other/xxx/Main1.java</url>
           <line>41</line>
           <option name="timeStamp" value="50" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/other/souhu/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/code/other/souhu/Main.java</url>
           <line>24</line>
           <option name="timeStamp" value="51" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/own/xiaohongshu/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/code/own/xiaohongshu/Main.java</url>
           <line>57</line>
           <option name="timeStamp" value="53" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/own/xiaohongshu/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/code/own/xiaohongshu/Main.java</url>
           <line>13</line>
           <option name="timeStamp" value="54" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/own/xiaohongshu/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/code/own/xiaohongshu/Main.java</url>
           <line>22</line>
           <option name="timeStamp" value="55" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/own/xiaohongshu/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/code/own/xiaohongshu/Main.java</url>
           <line>25</line>
           <option name="timeStamp" value="56" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/own/xiaohongshu/Main3.java</url>
+          <url>file://$PROJECT_DIR$/src/code/own/xiaohongshu/Main3.java</url>
           <line>21</line>
           <option name="timeStamp" value="60" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/own/huanju/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/code/own/huanju/Main.java</url>
           <line>17</line>
           <option name="timeStamp" value="68" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/other/tongcheng58/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/code/other/tongcheng58/Main2.java</url>
           <line>11</line>
           <option name="timeStamp" value="74" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/other/tongcheng58/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/code/other/tongcheng58/Main2.java</url>
           <line>29</line>
           <option name="timeStamp" value="85" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/other/tongcheng58/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/code/other/tongcheng58/Main2.java</url>
           <line>21</line>
           <option name="timeStamp" value="87" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/own/baidu/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/code/own/baidu/Main.java</url>
           <line>14</line>
           <option name="timeStamp" value="89" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/own/baidu/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/code/own/baidu/Main.java</url>
           <line>37</line>
           <option name="timeStamp" value="90" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/own/baidu/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/code/own/baidu/Main.java</url>
           <line>66</line>
           <option name="timeStamp" value="92" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/own/baidu/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/code/own/baidu/Main2.java</url>
           <line>59</line>
           <option name="timeStamp" value="94" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/other/xxx/Main3.java</url>
+          <url>file://$PROJECT_DIR$/src/code/other/xxx/Main3.java</url>
           <line>32</line>
           <option name="timeStamp" value="96" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/other/xxx/Main3.java</url>
+          <url>file://$PROJECT_DIR$/src/code/other/xxx/Main3.java</url>
           <line>40</line>
           <option name="timeStamp" value="97" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/other/xxx/Main3.java</url>
+          <url>file://$PROJECT_DIR$/src/code/other/xxx/Main3.java</url>
           <line>58</line>
           <option name="timeStamp" value="99" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/own/beike/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/code/own/beike/Main2.java</url>
           <line>18</line>
           <option name="timeStamp" value="101" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/own/beike/Main4.java</url>
+          <url>file://$PROJECT_DIR$/src/code/own/beike/Main4.java</url>
           <line>22</line>
           <option name="timeStamp" value="107" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/own/beike/Main4.java</url>
+          <url>file://$PROJECT_DIR$/src/code/own/beike/Main4.java</url>
           <line>32</line>
           <option name="timeStamp" value="108" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/own/huawei/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/code/own/huawei/Main.java</url>
           <line>22</line>
           <option name="timeStamp" value="110" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/own/huawei/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/code/own/huawei/Main.java</url>
           <line>44</line>
           <option name="timeStamp" value="111" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/own/huawei/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/code/own/huawei/Main.java</url>
           <line>36</line>
           <option name="timeStamp" value="112" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/own/huawei/Main3.java</url>
+          <url>file://$PROJECT_DIR$/src/code/own/huawei/Main3.java</url>
           <line>16</line>
           <option name="timeStamp" value="114" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/other/xingyebank/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/code/other/xingyebank/Main.java</url>
           <line>51</line>
           <option name="timeStamp" value="116" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/other/xingyebank/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/code/other/xingyebank/Main.java</url>
           <line>22</line>
           <option name="timeStamp" value="118" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/own/yuanfudao/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/code/own/yuanfudao/Main2.java</url>
           <line>10</line>
           <option name="timeStamp" value="120" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/own/yuanfudao/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/code/own/yuanfudao/Main2.java</url>
           <line>16</line>
           <option name="timeStamp" value="122" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/own/yuanfudao/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/code/own/yuanfudao/Main2.java</url>
           <line>31</line>
           <option name="timeStamp" value="123" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/other/jianhangjinke/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/code/other/jianhangjinke/Main.java</url>
           <line>14</line>
           <option name="timeStamp" value="124" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/other/jianhangjinke/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/code/other/jianhangjinke/Main.java</url>
           <line>23</line>
           <option name="timeStamp" value="125" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/own/shunfeng/Test.java</url>
+          <url>file://$PROJECT_DIR$/src/code/own/shunfeng/Test.java</url>
           <line>13</line>
           <option name="timeStamp" value="128" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/own/duxiaoman/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/code/own/duxiaoman/Main2.java</url>
           <line>26</line>
           <option name="timeStamp" value="129" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/own/tongcheng58/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/code/own/tongcheng58/Main.java</url>
           <line>15</line>
           <option name="timeStamp" value="130" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/other/jingdong/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/code/other/jingdong/Main.java</url>
           <line>43</line>
           <option name="timeStamp" value="149" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/own/growingio/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/code/own/growingio/Main.java</url>
           <line>23</line>
           <option name="timeStamp" value="150" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/own/fanruan/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/code/own/fanruan/Main.java</url>
           <line>44</line>
           <option name="timeStamp" value="155" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/own/fanruan/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/code/own/fanruan/Main.java</url>
           <line>48</line>
           <option name="timeStamp" value="156" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/own/fanruan/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/code/own/fanruan/Main.java</url>
           <line>81</line>
           <option name="timeStamp" value="163" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/own/fanruan/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/code/own/fanruan/Main.java</url>
           <line>33</line>
           <option name="timeStamp" value="166" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/own/tiger/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/code/own/tiger/Main.java</url>
           <line>30</line>
           <option name="timeStamp" value="167" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/own/meituan/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/code/own/meituan/Main.java</url>
           <line>8</line>
           <option name="timeStamp" value="168" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/own/qunaer/Main3.java</url>
+          <url>file://$PROJECT_DIR$/src/code/own/qunaer/Main3.java</url>
           <line>63</line>
           <option name="timeStamp" value="171" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/own/qunaer/Main3.java</url>
+          <url>file://$PROJECT_DIR$/src/code/own/qunaer/Main3.java</url>
           <line>71</line>
           <option name="timeStamp" value="172" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/own/wzbank/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/code/own/wzbank/Main2.java</url>
           <line>37</line>
           <option name="timeStamp" value="178" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/own/wzbank/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/code/own/wzbank/Main2.java</url>
           <line>42</line>
           <option name="timeStamp" value="179" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/own/wzbank/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/code/own/wzbank/Main2.java</url>
           <line>45</line>
           <option name="timeStamp" value="180" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/own/weimeng/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/code/own/weimeng/Main2.java</url>
           <line>24</line>
           <option name="timeStamp" value="181" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/own/weimeng/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/code/own/weimeng/Main2.java</url>
           <line>43</line>
           <option name="timeStamp" value="183" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/practice/huawei/_1_FindContinuousSequence.java</url>
+          <url>file://$PROJECT_DIR$/src/code/practice/huawei/_1_FindContinuousSequence.java</url>
           <line>66</line>
           <option name="timeStamp" value="184" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/practice/huawei/niucoder/beginner/HJ9.java</url>
+          <url>file://$PROJECT_DIR$/src/code/practice/huawei/niucoder/beginner/HJ9.java</url>
           <line>16</line>
           <option name="timeStamp" value="186" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/practice/huawei/niucoder/beginner/HJ46.java</url>
+          <url>file://$PROJECT_DIR$/src/code/practice/huawei/niucoder/beginner/HJ46.java</url>
           <line>15</line>
           <option name="timeStamp" value="187" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/practice/huawei/niucoder/beginner/HJ101.java</url>
+          <url>file://$PROJECT_DIR$/src/code/practice/huawei/niucoder/beginner/HJ101.java</url>
           <line>19</line>
           <option name="timeStamp" value="188" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/practice/huawei/niucoder/middle/HJ16.java</url>
+          <url>file://$PROJECT_DIR$/src/code/practice/huawei/niucoder/middle/HJ16.java</url>
           <line>83</line>
           <option name="timeStamp" value="193" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/practice/huawei/niucoder/middle/HJ16.java</url>
+          <url>file://$PROJECT_DIR$/src/code/practice/huawei/niucoder/middle/HJ16.java</url>
           <line>73</line>
           <option name="timeStamp" value="199" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/practice/huawei/niucoder/middle/HJ17.java</url>
+          <url>file://$PROJECT_DIR$/src/code/practice/huawei/niucoder/middle/HJ17.java</url>
           <line>37</line>
           <option name="timeStamp" value="200" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/practice/huawei/_11_CharStatisticAndSort.java</url>
+          <url>file://$PROJECT_DIR$/src/code/practice/huawei/_11_CharStatisticAndSort.java</url>
           <line>17</line>
           <option name="timeStamp" value="201" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/practice/huawei/_12_NumberCutDupAndSort.java</url>
+          <url>file://$PROJECT_DIR$/src/code/practice/huawei/_12_NumberCutDupAndSort.java</url>
           <line>15</line>
           <option name="timeStamp" value="204" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/practice/huawei/_12_NumberCutDupAndSort.java</url>
+          <url>file://$PROJECT_DIR$/src/code/practice/huawei/_12_NumberCutDupAndSort.java</url>
           <line>37</line>
           <option name="timeStamp" value="206" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/practice/huawei/_14_MinSumOfCoupleNumber.java</url>
+          <url>file://$PROJECT_DIR$/src/code/practice/huawei/_14_MinSumOfCoupleNumber.java</url>
           <line>37</line>
           <option name="timeStamp" value="207" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Code/practice/huawei/_8_UserDispatch.java</url>
+          <url>file://$PROJECT_DIR$/src/code/practice/huawei/_8_UserDispatch.java</url>
           <line>27</line>
           <properties>
             <option name="lambda-ordinal" value="-1" />

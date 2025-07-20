@@ -786,7 +786,7 @@ public class HashMap<K,V> extends AbstractMap<K,V>
                 // 8-2. 判断是否到达末尾
                 if ((e = oldTab[j]) != null) {
                     oldTab[j] = null;
-                    // 8-3. 判断当前结点是否存在冲突
+                    // 8-3. 判断当前结点是否存在哈希冲突
                     if (e.next == null)
                         // 当前结点不存在冲突，则直接迁移当前结点
                         newTab[e.hash & (newCap - 1)] = e;
@@ -822,6 +822,8 @@ public class HashMap<K,V> extends AbstractMap<K,V>
                              * newIndex = e.hash & (newCap - 1) = 1010 & 01111 = 10
                              * offset = newIndex - oldIndex = 8 = 1000 = oldCap
                              * 即e在newTable取得的index的值相对在oldTable取得的index偏移oldCap个位置，因此需要将e在newTable上的位置相对于在oldTable上偏移oldCap个位置
+                             *
+                             * 问：什么情况下需要改变位置？
                              * */
                             // 根据e在newTable上的index否是发生改变分别通过尾插法取链表
                             if ((e.hash & oldCap) == 0) {
